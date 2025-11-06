@@ -13,3 +13,6 @@ HTML5, CSS, git, github, github pages
 
 ## Zespół
 todo
+
+### Nowe zdjęcia (feature/testpp)
+- Dodano `zdj1.jpg`, `zddj2.jpg`, `zdj3.jpg`
